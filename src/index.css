@@ -5,3 +5,8 @@ body {
 * {
   font-family: "Manrope", sans-serif;
 }
+h5,
+p {
+  margin: 0px;
+  padding: 0px;
+}
